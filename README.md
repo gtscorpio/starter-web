@@ -23,6 +23,7 @@ Sample website with plenty of files for demos
 ## Deployment 7
 
 ## How to Contribute
+Please for this repository
 
 ## Copyright
 Copyright notice 2021
