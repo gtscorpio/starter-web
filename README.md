@@ -24,7 +24,8 @@ Sample website with plenty of files for demos
 ## Deployment 7
 
 ## How to Contribute
-Please for this repository
+Please check in this for this repository
+Rebasing example
 
 ## Copyright
-Copyright notice 2021
+Copyright notice 2022
