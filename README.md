@@ -25,7 +25,7 @@ Sample website with plenty of files for demos
 
 ## How to Contribute
 Please check in this for this repository
-Rebasing example
+Rebasing example. more changes from myfeature
 
 ## Copyright
 Copyright notice 2022
